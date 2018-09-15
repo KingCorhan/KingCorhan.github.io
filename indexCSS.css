@@ -1,0 +1,13 @@
+header {
+  color:rgba(150,150,150);
+  background-color:rgba(0, 0, 0, 0.25);
+  cursor:crosshair
+}
+footer {
+  color:rgba(150,150,150);
+  background-color:rgba(0, 0, 0, 0.25);
+  cursor:crosshair
+}
+p {
+  cursor:crosshair /*this probably isn't something a professional would do, but what are you going to do?*/
+}
